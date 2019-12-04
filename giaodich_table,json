@@ -1,32 +1,32 @@
 [
   {
     "magd":"methodologyalarmvirtual",
-    "loginVi":"nvduy3",
-    "Ví điện tử thanh toán":"nvduy3",
-    "Ngày giao dịch": "Mon Apr 01 2019 11:15:06",
-    "Loại giao dịch": "Paytouch",
-    "Tiền thanh toán (VND)": "836.07",
-    "Tiền tham chiếu (VND)": "509.68",
+    "login_purse":"nvduy3",
+    "payment_purse":"nvduy3",
+    "transaction_date": "Mon Apr 01 2019 11:15:06",
+    "transaction_type": "Paytouch",
+    "payment_fee_VND": "836.07",
+    "reference_fee_VND": "509.68",
     "status": "Success"
   },
   {
     "magd":"Cambridgeshire",
-    "Ví điện tử đăng nhập":"20189143",
-    "Ví điện tử thanh toán":"20189143",
-    "Ngày giao dịch":"Tue Sep 03 2019 04:16:38",
-    "Loại giao dịch": "Paytouch",
-    "Tiền thanh toán (VND)": "405.07",
-    "Tiền tham chiếu (VND)": "208.84",
+    "login_purse":"20189143",login_purse
+    "payment_purse":"20189143",
+    "transaction_date":"Tue Sep 03 2019 04:16:38",
+    "transaction_type": "Paytouch",
+    "payment_fee_VND": "405.07",
+    "reference_fee_VND": "208.84",
     "status": "Failed"
   },
   {
     "magd":"IncredibleFreshTable",
-    "Ví điện tử đăng nhập": "08927807",
-    "Ví điện tử thanh toán": "08927807",
-    "Ngày giao dịch": "Sat May 11 2019 03:01:36",
-    "Loại giao dịch": "Paytouch",
-    "Tiền thanh toán (VND)": "780.78",
-    "Tiền tham chiếu (VND)": "679.47",
+    "login_purse": "08927807",
+    "payment_purse": "08927807",
+    "transaction_date": "Sat May 11 2019 03:01:36",
+    "transaction_type": "Paytouch",
+    "payment_fee_VND": "780.78",
+    "reference_fee_VND": "679.47",
     "status": "Processing"
   }
 ]
