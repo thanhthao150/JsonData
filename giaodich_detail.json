@@ -1,34 +1,33 @@
 [
-{
-  "status":"success",
-  "data":{
-    "id": 1,
-    "section1": {
-      "magd": "methodologyalarmvirtual",
-      "test":"ffff",
-      "barcode": "2210-9900",
-    },
-    "section2":{
-      "login_purse": "nvduy003",
-      "payment_purse": "nvduy003",
-    },
-    "section3":{
-      "transaction_date": "23/11/2019",
-      "transaction_type": "Paycode",
-      "source": "WEB",
-      "payment_method": "VĐT Payoo",
-    },
-    "section4":{
-      "card_type": "Mobifone 10000",
-      "amount": "1",
-      "discount": "100 VND",
-      "fee": "0 VND",
-      "payment_fee": "9.900 VND",
-      "refernce_fee": "9.900 VND",
-    },
-    "section5":{
-      "status": "Success",
-    },
+  {
+    "status":"success",
+    "data":{
+      "id": 1,
+      "section1": {
+        "magd": "methodologyalarmvirtual",        
+        "barcode": "2210-9900"
+      },
+      "section2":{
+        "login_purse": "nvduy003",
+        "payment_purse": "nvduy003"
+      },
+      "section3":{
+        "transaction_date": "23/11/2019",
+        "transaction_type": "Paycode",
+        "source": "WEB",
+        "payment_method": "VĐT Payoo"
+      },
+      "section4":{
+        "card_type": "Mobifone 10000",
+        "amount": "1",
+        "discount": "100 VND",
+        "fee": "0 VND",
+        "payment_fee": "9.900 VND",
+        "refernce_fee": "9.900 VND"
+      },
+      "section5":{
+        "status": "Success"
+      }
+    }
   }
-}
-]
+  ]
