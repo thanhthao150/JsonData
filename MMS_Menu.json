@@ -5,27 +5,32 @@
       {
       "id":1,
       "name": "Giao dịch",
-      "link": "statistic"
+      "link": "statistic",
+      "component":"Statistic"
       },
       {
       "id": 2,
       "name": "Đặt hàng Paytouch",
-      "link": "statistic-paytouch"
+      "link": "statistic-paytouch",
+      "component":"StatisticPaytouch"
       },
       {
       "id": 3,
       "name": "Giao dịch bán hàng",
-      "link": "card-pay-management"
+      "link": "card-pay-management",
+      "component":"CardPayManagement"
       },
       {
       "id": 4,
       "name": "Sử dụng voucher",
-      "link": "query-voucher"
+      "link": "query-voucher",
+      "component":"QueryVoucher"
       },
       {
       "id": 5,
       "name": "Giao dịch trả góp",
-      "link": "statistic-installment"
+      "link": "statistic-installment",
+      "component":"StatisticInstallment"
       }
     ]
   }
