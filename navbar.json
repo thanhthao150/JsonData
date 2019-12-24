@@ -1,0 +1,25 @@
+[
+  "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "name": "Trang chủ",
+      "link": null,
+      "component": "Home"
+    },
+    {
+      "id": 2,
+      "name": [
+        {
+          "name":"Giới thiệu",
+          "link": null,
+          "component": "Introduction"
+        },
+        {
+          "name":"Về chúng tôi",
+          
+        }
+      ]
+    }
+  ]
+]
