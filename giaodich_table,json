@@ -1,134 +1,24 @@
 [
   {
-    "id":1,
-    "magd":"methodologyalarmvirtual",
-    "login_purse":"nvduy3",
-    "payment_purse":"nvduy3",
-    "transaction_date": "Mon Apr 01 2019 11:15:06",
-    "transaction_type": "Paytouch",
-    "payment_fee_VND": "836.07",
-    "reference_fee_VND": "509.68",
-    "status": "Success"
-  },
-  {
-    "id":2,
-    "magd":"Cambridgeshire",
-    "login_purse":"20189143",
-    "payment_purse":"20189143",
-    "transaction_date":"Tue Sep 03 2019 04:16:38",
-    "transaction_type": "Paytouch",
-    "payment_fee_VND": "405.07",
-    "reference_fee_VND": "208.84",
-    "status": "Failed"
-  },
-  {
-    "id":3,
-    "magd":"IncredibleFreshTable",
-    "login_purse": "08927807",
-    "payment_purse": "08927807",
-    "transaction_date": "Sat May 11 2019 03:01:36",
-    "transaction_type": "Paytouch",
-    "payment_fee_VND": "780.78",
-    "reference_fee_VND": "679.47",
-    "status": "Processing"
-  },
-  {
-    "id":4,
-    "magd":"IncredibleFreshTable",
-    "login_purse": "08927807",
-    "payment_purse": "08927807",
-    "transaction_date": "Sat May 11 2019 03:01:36",
-    "transaction_type": "Paytouch",
-    "payment_fee_VND": "780.78",
-    "reference_fee_VND": "679.47",
-    "status": "Processing"
-  },
-  {
-    "id":5,
-    "magd":"swimtastyprospect",
-    "login_purse": "08927807",
-    "payment_purse": "08927807",
-    "transaction_date": "Sat May 11 2019 03:01:36",
-    "transaction_type": "Paytouch",
-    "payment_fee_VND": "780.78",
-    "reference_fee_VND": "679.47",
-    "status": "Processing"
-  },
-  {
-    "id":12,
-    "magd":"partnerpagemobile",
-    "login_purse": "08927807",
-    "payment_purse": "08927807",
-    "transaction_date": "Sat May 11 2019 03:01:36",
-    "transaction_type": "Paytouch",
-    "payment_fee_VND": "780.78",
-    "reference_fee_VND": "679.47",
-    "status": "Processing"
-  },
-  {
-    "id":6,
-    "magd":"entrygeneticsuffering",
-    "login_purse": "08927807",
-    "payment_purse": "08927807",
-    "transaction_date": "Sat May 11 2019 03:01:36",
-    "transaction_type": "Paytouch",
-    "payment_fee_VND": "780.78",
-    "reference_fee_VND": "679.47",
-    "status": "Processing"
-  },
-  {
-    "id":7,
-    "magd":"weedmemoryapplication",
-    "login_purse": "08927807",
-    "payment_purse": "08927807",
-    "transaction_date": "Sat May 11 2019 03:01:36",
-    "transaction_type": "Paytouch",
-    "payment_fee_VND": "780.78",
-    "reference_fee_VND": "679.47",
-    "status": "Processing"
-  },
-  {
-    "id":8,
-    "magd":"abandonscrewarticulate",
-    "login_purse": "08927807",
-    "payment_purse": "08927807",
-    "transaction_date": "Sat May 11 2019 03:01:36",
-    "transaction_type": "Paytouch",
-    "payment_fee_VND": "780.78",
-    "reference_fee_VND": "679.47",
-    "status": "Processing"
-  },
-  {
-    "id":9,
-    "magd":"formcompetitionaccessible",
-    "login_purse": "08927807",
-    "payment_purse": "08927807",
-    "transaction_date": "Sat May 11 2019 03:01:36",
-    "transaction_type": "Paytouch",
-    "payment_fee_VND": "780.78",
-    "reference_fee_VND": "679.47",
-    "status": "Processing"
-  },
-  {
-    "id":10,
-    "magd":"clockministryshine",
-    "login_purse": "08927807",
-    "payment_purse": "08927807",
-    "transaction_date": "Sat May 11 2019 03:01:36",
-    "transaction_type": "Paytouch",
-    "payment_fee_VND": "780.78",
-    "reference_fee_VND": "679.47",
-    "status": "Processing"
-  },
-  {
-    "id":11,
-    "magd":"handmonthblow",
-    "login_purse": "08927807",
-    "payment_purse": "08927807",
-    "transaction_date": "Sat May 11 2019 03:01:36",
-    "transaction_type": "Paytouch",
-    "payment_fee_VND": "780.78",
-    "reference_fee_VND": "679.47",
-    "status": "Processing"
-  }
+    "statuts": "success",
+    "data":
+    {
+      "headings":["Mã giao dịch", "Ví điện tử đăng nhập", "Ví điện tử thanh toán", "Ngày giao dịch", "Loại giao dịch", "Tiền thanh toán (VNĐ)", "Tiền tham chiếu (VNĐ)", "Trạng thái"],
+      "values":[
+      ["1", "Vestibulumante", "Pellentesque", "Pellentesque", "Mon Apr 01 2019 11:15:06", "Paytouch", "836.07", "509.68", "Success"],
+      ["2", "Curabitur", "nvduy3", "nvduy3", "Tue Sep 03 2019 04:16:38", "Paytouch", "405.17", "258.68", "Failed"],
+      ["3", "Fusceneque", "nvduy3", "nvduy3", "Wed Dec 25 2019 04:16:38", "Paytouch", "685.17", "178.98", "Failed"],
+      ["4", "Phasellusleo", "Nulla", "Nulla", "Sat May 11 2019 03:01:36", "Paytouch", "780.78", "679.47", "Processing"],
+      ["5", "Morbimattisul", "08927807", "08927807", "24.12.2019", "Paytouch", "480.78", "612.49", "Success"],
+      ["6", "Aenean", "Proin", "Proin", "24.12.2019", "Paytouch", "480.78", "612.49", "Failed"],
+      ["7", "Vestibulum", "Phasellus", "Phasellus", "24.12.2019", "Paytouch", "480.78", "612.49", "Success"],
+      ["8", "Phasellus", "Nullam", "Nullam", "24.12.2019", "Paytouch", "480.78", "612.49", "Success"],
+      ["9", "Maecenas", "Curabitur", "Curabitur", "24.12.2019", "Paytouch", "480.78", "612.49", "Failed"],
+      ["10", "Nam", "Cras", "Cras", "24.12.2019", "Paytouch", "480.78", "612.49", "Success"],
+      ["11", "AeneanEtiam", "hnam7807", "hnam7807", "24.12.2019", "Paytouch", "480.78", "612.49", "Processing"],
+      ["12", "Donec", "0892ngnhi", "0892ngnhi", "24.12.2019", "Paytouch", "480.78", "612.49", "Success"]
+      ]
+    }        
+    "message": "your data is ready"
+  }                
 ]
