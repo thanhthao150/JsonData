@@ -1,6 +1,6 @@
 [
   {
-    "statuts": "success",
+    "status": "success",
     "data":
     {
       "headings":["Mã giao dịch", "Ví điện tử đăng nhập", "Ví điện tử thanh toán", "Ngày giao dịch", "Loại giao dịch", "Tiền thanh toán (VNĐ)", "Tiền tham chiếu (VNĐ)", "Trạng thái"],
