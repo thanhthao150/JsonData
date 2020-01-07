@@ -1,33 +1,23 @@
 [
   {
     "status":"success",
-    "data":{
-      "id": 1,
-      "section1": {
+    "data":{      
         "magd": "methodologyalarmvirtual",        
-        "barcode": "22109900"
-      },
-      "section2":{
+        "barcode": "22109900",            
         "login_purse": "nvduy003",
-        "payment_purse": "nvduy003"
-      },
-      "section3":{
+        "payment_purse": "nvduy003",
         "transaction_date": "23/11/2019",
         "transaction_type": "Paycode",
         "source": "WEB",
-        "payment_method": "VĐT Payoo"
-      },
-      "section4":{
+        "payment_method": "VĐT Payoo",      
         "card_type": "Mobifone 10000",
         "amount": "1",
         "discount": "100 VND",
         "fee": "0 VND",
         "payment_fee": "9.900 VND",
-        "refernce_fee": "9.900 VND"
+        "refernce_fee": "9.900 VND",
+        "status": "Success"      
       },
-      "section5":{
-        "status": "Success"
-      }
+    "message": ""
     }
-  }
   ]
