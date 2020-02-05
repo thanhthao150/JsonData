@@ -2,7 +2,7 @@
   "status": "success",
   "data":
   {
-    "columns":["Mã giao dịch", "Ví điện tử đăng nhập", "Ví điện tử thanh toán", "Ngày giao dịch", "Loại giao dịch", "Tiền thanh toán (VNĐ)", "Tiền tham chiếu (VNĐ)", "Trạng thái"],
+    "columns":["STT", "Mã giao dịch", "Ví điện tử đăng nhập", "Ví điện tử thanh toán", "Ngày giao dịch", "Loại giao dịch", "Tiền thanh toán (VNĐ)", "Tiền tham chiếu (VNĐ)", "Trạng thái"],
     "values":[
     ["1", "Vestibulumante", "Pellentesque", "Pellentesque", "Mon Apr 01 2019 11:15:06", "Paytouch", "836.07", "509.68", "Success"],
     ["2", "Curabitur", "nvduy3", "nvduy3", "Tue Sep 03 2019 04:16:38", "Paytouch", "405.17", "258.68", "Failed"],
